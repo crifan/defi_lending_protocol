@@ -1,0 +1,19 @@
+{
+  "title": "DeFi借贷协议",
+  "description": "整理出DeFi借贷协议的基础背景知识和相关内容。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "defi_lending_protocol"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/defi_lending_protocol/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/defi_lending_protocol/pdf/defi_lending_protocol.pdf"
+    }
+  }
+}
